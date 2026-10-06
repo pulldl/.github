@@ -13,8 +13,7 @@
 
 [![Website](https://img.shields.io/badge/Website-pulldl.com-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pulldl.com)
 [![GitHub Source](https://img.shields.io/badge/GitHub-v2.0.0_(Turbo)-blue?style=for-the-badge&logo=github)](https://github.com/pulldl/pulldl/releases)
-[![Chrome Web Store](https://img.shields.io/badge/Extension-Ready_v2.0-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pulldl.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: Protected](https://img.shields.io/badge/License-Source--Available_(Protected)-red.svg?style=for-the-badge)](https://github.com/pulldl/pulldl/blob/main/LICENSE)
 [![Supported Platforms](https://img.shields.io/badge/Supported%20Platforms-1%2C290%2B-blueviolet?style=for-the-badge)](https://pulldl.com)
 
 </div>
